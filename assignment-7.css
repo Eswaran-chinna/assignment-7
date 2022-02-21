@@ -283,7 +283,7 @@
             }
            
         }
-        @media screen and (max-width:576px){
+        @media only screen and (max-width:576px){
             .header-row1-outer{
                 display: none;
             }
